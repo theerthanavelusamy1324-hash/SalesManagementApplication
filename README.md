@@ -5,11 +5,12 @@ The Sales Management System is a simple web application used to track total sale
 
 ---
 ## 🔗 Live Demo
-[https://your-project.vercel.app](https://theerthanavelusamy1324-hash.github.io/SalesManagementApplication/)
+
+https://theerthanavelusamy1324-hash.github.io/SalesManagementApplication/
 
 ## 💻 Source Code
-[https://github.com/your-username/ZippyEatsProject](https://github.com/theerthanavelusamy1324-hash/SalesManagementApplication)
 
+https://github.com/theerthanavelusamy1324-hash/SalesManagementApplication
 ---
 
 ## 🚀 Features

@@ -85,6 +85,3 @@ Sales-Management-System/
 *Theerthana Velusamy*
 
 Java Full Stack Developer
-git clone https://github.com/your-username/sales-management-system.git
-
-cd sales-management-system

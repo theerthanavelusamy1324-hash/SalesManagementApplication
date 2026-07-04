@@ -4,6 +4,13 @@
 The Sales Management System is a simple web application used to track total sales and product quantity sold. It mainly focuses on sales count and quantity monitoring with a visual chart representation.
 
 ---
+## 🔗 Live Demo
+[https://your-project.vercel.app](https://theerthanavelusamy1324-hash.github.io/SalesManagementApplication/)
+
+## 💻 Source Code
+[https://github.com/your-username/ZippyEatsProject](https://github.com/theerthanavelusamy1324-hash/SalesManagementApplication)
+
+---
 
 ## 🚀 Features
 
